@@ -9,7 +9,7 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="ori-asraf" /></p>
+<p><img align="right" src="https://cdn.discordapp.com/attachments/696378493629497344/930760402516729886/logo.gif" alt="ori-asraf" /></p>
 
 
 - 🌐 Full Stack Developer.
