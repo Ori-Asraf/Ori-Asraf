@@ -68,9 +68,9 @@
 
 <h3 align="left">Languages Libaries:</h3>
 <p align="left"> 
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-        alt="nodejs" width="40" height="40" /> 
+    <a href="https://angularjs.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"
+        alt="angularjs" width="40" height="40" /> 
     </a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
@@ -81,7 +81,7 @@
         alt="nestjs" width="40" height="40" /> 
     </a> 
     <a href="https://jquery.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/jquery/jquery-original-wordmark.svg"
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg"
         alt="jquery" width="40" height="40" /> 
     </a> 
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
