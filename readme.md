@@ -80,26 +80,26 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"
         alt="vuejs" width="40" height="40" /> 
     </a> 
-    <a href="https://jquery.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg"
-        alt="jquery" width="40" height="40" /> 
-    </a> 
-    <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" 
-        alt="electronjs" width="40" height="40" /> 
+    <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" 
+        alt="nestjs" width="40" height="40" /> 
     </a> 
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" 
         alt="firebase" width="40" height="40" /> 
-    </a> 
-    <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" 
-        alt="nestjs" width="40" height="40" /> 
+    </a>
+    <a href="https://jquery.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg"
+        alt="jquery" width="40" height="40" /> 
     </a> 
     <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" 
         alt="expressjs" width="40" height="40" /> 
     </a> 
+    <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" 
+        alt="electronjs" width="40" height="40" /> 
+    </a>  
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
         alt="bootstrap" width="40" height="40" /> 
