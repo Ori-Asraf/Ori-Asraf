@@ -1,4 +1,4 @@
-<h1 align="center">Welcome 👋 to my about me!</h1>
+<h1 align="center">Welcome 👋 to my About Me!</h1>
 <h3 align="center">I am Ori Asraf.</h3>
 
 <br>
