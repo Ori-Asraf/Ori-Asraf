@@ -91,15 +91,15 @@
 
 <br>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ori-Asraf&" alt="Ori-Asraf" /></p>
+
+<br>
+
+
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=Ori-Asraf&show_icons=true&locale=en&layout=compact"
     alt="Ori-Asraf" /></p>
 
 <br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ori-Asraf&" alt="Ori-Asraf" /></p>
-
-<br>
-
 ------------------------------------------------------------------------------------------------------------------------------------------
 [Ori-Asraf](https://github.com/Ori-Asraf)
