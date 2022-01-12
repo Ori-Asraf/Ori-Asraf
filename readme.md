@@ -4,12 +4,12 @@
 <br>
 
 <p align="right"> <h3>About Me : </h3> <img src="https://komarev.com/ghpvc/?username=Ori-Asraf&label=Profile%20views&color=0e75b6&style=flat"
-    alt="ori-asraf" /> 
+    alt="Ori-Asraf" /> 
   </p>
 
 <br>
 
-<p><img align="right" src="https://cdn.discordapp.com/attachments/804364167392919593/885146974645551114/OCK.gif" alt="ori-asraf" /></p>
+<p><img align="right" src="https://cdn.discordapp.com/attachments/804364167392919593/885146974645551114/OCK.gif" alt="Ori-Asraf" /></p>
 
 
 - 🌐 Full Stack Developer.
@@ -85,18 +85,19 @@
 <br>
 
 <h3>Profile Statistics :-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Ori-Asraf&show_icons=true&locale=en&layout=compact"
-    alt="adam-pw" /></p>
-
-<br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ori-Asraf&show_icons=true&locale=en"
-    alt="adam-pw" /></p>
+    alt="Ori-Asraf" /></p>
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ori-Asraf&" alt="ori-asraf" /></p>
+<p><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Ori-Asraf&show_icons=true&locale=en&layout=compact"
+    alt="Ori-Asraf" /></p>
+
+<br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ori-Asraf&" alt="Ori-Asraf" /></p>
 
 <br>
 
