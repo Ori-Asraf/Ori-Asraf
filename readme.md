@@ -3,13 +3,13 @@
 
 <br>
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=ori_asraf&label=Profile%20views&color=0e75b6&style=flat"
-    alt="adam-pw" /> 
+<p align="right"> <h3>Profile Statistics : </h3> <img src="https://komarev.com/ghpvc/?username=Ori-Asraf&label=Profile%20views&color=0e75b6&style=flat"
+    alt="ori-asraf" /> 
   </p>
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="ori-asraf" /></p>
 
 
 - 🌐 Full Stack Developer.
@@ -108,4 +108,4 @@
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
-[Adam-pw](https://github.com/Adam-pw)
+[Ori-Asraf](https://github.com/Ori-Asraf)
