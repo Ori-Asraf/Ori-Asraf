@@ -3,7 +3,7 @@
 
 <br>
 
-<p align="right"> <h3>Profile Statistics : </h3> <img src="https://komarev.com/ghpvc/?username=Ori-Asraf&label=Profile%20views&color=0e75b6&style=flat"
+<p align="right"> <h3>About Me : </h3> <img src="https://komarev.com/ghpvc/?username=Ori-Asraf&label=Profile%20views&color=0e75b6&style=flat"
     alt="ori-asraf" /> 
   </p>
 
@@ -84,28 +84,21 @@
 
 <br>
 
-<h3>Statistical Data :-</h3>
+<h3>Profile Statistics :-</h3>
 <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=adam-pw&show_icons=true&locale=en&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Ori-Asraf&show_icons=true&locale=en&layout=compact"
     alt="adam-pw" /></p>
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adam-pw&show_icons=true&locale=en"
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ori-Asraf&show_icons=true&locale=en"
     alt="adam-pw" /></p>
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adam-pw&" alt="adam-pw" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ori-Asraf&" alt="ori-asraf" /></p>
 
 <br>
-<h3>Trophies :-</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-      src="https://github-profile-trophy.vercel.app/?username=adam-pw" alt="adam-pw" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img
-      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 [Ori-Asraf](https://github.com/Ori-Asraf)
