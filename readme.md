@@ -3,11 +3,13 @@
 
 <br>
 
-<p><img align="right" src="https://cdn.discordapp.com/attachments/804364167392919593/885146974645551114/OCK.gif" alt="Ori-Asraf" href="https://github.com/Ori-Asraf/" target="_blank" rel="noreferrer" /></p>
+<p align="right"> <h3>About Me : </h3> <img src="https://komarev.com/ghpvc/?username=Ori-Asraf&label=Profile%20views&color=0e75b6&style=flat"
+    alt="Ori-Asraf" /> 
+  </p>
 
 <br>
 
-<p><img align="right" src="https://cdn.discordapp.com/attachments/804364167392919593/885146974645551114/OCK.gif" alt="Ori-Asraf" /></p>
+<p><img align="right" src="https://cdn.discordapp.com/attachments/804364167392919593/885146974645551114/OCK.gif" alt="Ori-Asraf" href="https://github.com/Ori-Asraf/" target="_blank" rel="noreferrer" /></p>
 
 
 - 🌐 Full Stack Developer.
