@@ -101,6 +101,10 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg"
         alt="django" width="40" height="40" />
     </a>  
+    <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" 
+        alt="laravel" width="40" height="40" /> 
+    </a> 
     <a href="https://rubyonrails.org/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" 
         alt="rubyonrails" width="40" height="40" /> 
