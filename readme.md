@@ -46,6 +46,10 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"
         alt="java" width="40" height="40" />
     </a>
+    <a href="https://www.w3schools.com/c/c_intro.php" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
+        alt="java" width="40" height="40" />
+    </a>
     <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain-wordmark.svg"
         alt="ruby" width="40" height="40" />
