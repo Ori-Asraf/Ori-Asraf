@@ -125,6 +125,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" 
         alt="nestjs" width="40" height="40" /> 
     </a> 
+    <br>
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" 
         alt="firebase" width="40" height="40" /> 
