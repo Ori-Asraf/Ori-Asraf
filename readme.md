@@ -77,6 +77,14 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"
         alt="react" width="40" height="40" />
     </a>  
+    <a href=https://flask.palletsprojects.com/en/2.1.x/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"
+        alt="react" width="40" height="40" />
+    </a>  
+    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg"
+        alt="react" width="40" height="40" />
+    </a>  
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
         alt="react" width="40" height="40" />
