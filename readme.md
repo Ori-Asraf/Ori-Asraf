@@ -117,11 +117,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" 
         alt="firebase" width="40" height="40" /> 
     </a>
-    <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" 
-        alt="electronjs" width="40" height="40" /> 
-    </a>   
-    <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
+   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" 
         alt="expressjs" width="40" height="40" /> 
     </a> 
@@ -129,6 +125,10 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg"
         alt="jquery" width="40" height="40" /> 
     </a> 
+    <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" 
+        alt="electronjs" width="40" height="40" /> 
+    </a>   
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" 
         alt="tailwindcss" width="40" height="40" /> 
