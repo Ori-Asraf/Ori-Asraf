@@ -58,6 +58,10 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
         alt="csharp" width="40" height="40" />
     </a>
+    <a href="https://developer.apple.com/documentation/objectivec" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/objectivec/objectivec-plain.svg"
+        alt="objc" width="40" height="40" />
+    </a>
     <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain-wordmark.svg"
         alt="ruby" width="40" height="40" />
