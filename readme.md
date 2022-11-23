@@ -16,8 +16,6 @@
 
 - ☁️ CEO of OCK Cloud.
 
-- 👑 Owner of NewVersion.
-
 <br>
 
 <h3 align="left">Languages :</h3>
