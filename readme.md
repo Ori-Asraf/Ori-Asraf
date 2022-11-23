@@ -23,23 +23,23 @@
 <h3 align="left">Languages :</h3>
 <p align="left">
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Light.svg"
         alt="bash" width="40" height="40" />
     </a> 
     <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg"
         alt="html5" width="40" height="40" />
     </a>  
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg"
         alt="css3" width="40" height="40" />
     </a>  
     <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg"
         alt="javascript" width="40" height="40" />
     </a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg"
         alt="typescript" width="40" height="40" />
     </a>
     <a href="https://www.python.org/" target="_blank" rel="noreferrer">
