@@ -43,7 +43,7 @@
         alt="php" width="40" height="40" />
     </a>
     <a href="https://www.lua.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Lua-Dark.svg"
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Lua-Light.svg"
         alt="lua" width="40" height="40" />
     </a>
     <a href="https://www.python.org/" target="_blank" rel="noreferrer">
