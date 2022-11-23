@@ -94,70 +94,70 @@
 <h3 align="left">Runtimes & Libaries :</h3>
 <p align="left"> 
     <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg"
         alt="react" width="40" height="40" />
     </a>  
     <a href=https://flask.palletsprojects.com/en/2.1.x/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg"
         alt="flask" width="40" height="40" />
     </a>  
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg"
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg"
         alt="django" width="40" height="40" />
     </a>  
     <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" 
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg"
         alt="laravel" width="40" height="40" /> 
     </a> 
-    <a href="https://rubyonrails.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" 
-        alt="rubyonrails" width="40" height="40" /> 
-    </a> 
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg"
         alt="react" width="40" height="40" />
     </a>  
+    <a href="https://svelte.dev/" target="_blank" rel="noreferrer"> 
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Svelte.svg"
+        alt="svelte" width="40" height="40" /> 
+    </a> 
     <a href="https://angularjs.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Light.svg"
         alt="angularjs" width="40" height="40" /> 
     </a>
     <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VueJS-Light.svg"
         alt="vuejs" width="40" height="40" /> 
     </a> 
     <br>
     <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" 
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NestJS-Dark.svg"
         alt="nestjs" width="40" height="40" /> 
     </a> 
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" 
-        alt="firebase" width="40" height="40" /> 
-    </a>
+    <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Electron.svg"
+        alt="electronjs" width="40" height="40" /> 
+    </a>   
    <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" 
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg"
         alt="expressjs" width="40" height="40" /> 
     </a> 
     <a href="https://jquery.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg"
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JQuery.svg"
         alt="jquery" width="40" height="40" /> 
     </a> 
-    <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" 
-        alt="electronjs" width="40" height="40" /> 
-    </a>   
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" 
-        alt="tailwindcss" width="40" height="40" /> 
-    </a>  
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg"
         alt="bootstrap" width="40" height="40" /> 
     </a> 
     <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" 
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg"
         alt="sass" width="40" height="40" /> 
     </a> 
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Light.svg"
+        alt="tailwindcss" width="40" height="40" /> 
+    </a>  
+    <a href="https://windicss.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/WindiCSS-Light.svg"
+        alt="windicss" width="40" height="40" /> 
+    </a>
 </p>
 
 <br>
