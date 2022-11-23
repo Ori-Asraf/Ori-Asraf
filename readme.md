@@ -174,9 +174,8 @@
 
 <br>
 
-
 <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Ori-Asraf&show_icons=true&locale=en&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Ori-Asraf"
     alt="Ori-Asraf" /></p>
 
 <br>
