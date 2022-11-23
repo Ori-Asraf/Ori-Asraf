@@ -22,10 +22,6 @@
 
 <h3 align="left">Languages :</h3>
 <p align="left">
-    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Light.svg"
-        alt="bash" width="40" height="40" />
-    </a> 
     <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg"
         alt="html5" width="40" height="40" />
@@ -41,6 +37,10 @@
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg"
         alt="typescript" width="40" height="40" />
+    </a>
+    <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg"
+        alt="php" width="40" height="40" />
     </a>
     <a href="https://www.python.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Light.svg"
@@ -75,19 +75,18 @@
         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Ruby.svg"
         alt="ruby" width="40" height="40" />
     </a>
-    <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg"
-        alt="php" width="40" height="40" />
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg"
+        alt="mongodb" width="40" height="40" />
     </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Light.svg"
         alt="mysql" width="40" height="40" />
     </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg"
-        alt="mongodb" width="40" height="40" />
-    </a>
-    
+    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Light.svg"
+        alt="bash" width="40" height="40" />
+    </a> 
 </p>
 
 <br>
