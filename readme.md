@@ -42,13 +42,13 @@
         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg"
         alt="php" width="40" height="40" />
     </a>
-    <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg"
-        alt="python" width="40" height="40" />
-    </a>
     <a href="https://www.lua.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Lua-Light.svg"
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Lua-Dark.svg"
         alt="lua" width="40" height="40" />
+    </a>
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Light.svg"
+        alt="python" width="40" height="40" />
     </a>
     <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Light.svg"
