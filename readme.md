@@ -43,48 +43,48 @@
         alt="typescript" width="40" height="40" />
     </a>
     <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Light.svg"
         alt="python" width="40" height="40" />
     </a>
     <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Light.svg"
         alt="java" width="40" height="40" />
     </a>
     <a href="https://www.lua.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original-wordmark.svg"
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Lua-Light.svg"
         alt="lua" width="40" height="40" />
     </a>
     <br>
     <a href="https://www.w3schools.com/c/c_intro.php" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg"
         alt="c" width="40" height="40" />
     </a>
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg"
         alt="cplusplus" width="40" height="40" />
     </a>
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg"
         alt="csharp" width="40" height="40" />
     </a>
-    <a href="https://developer.apple.com/documentation/objectivec" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/objectivec/objectivec-plain.svg"
-        alt="objc" width="40" height="40" />
+    <a href="https://www.go.dev/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GoLang.svg"
+        alt="go width="40" height="40" />
     </a>
     <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain-wordmark.svg"
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Ruby.svg"
         alt="ruby" width="40" height="40" />
     </a>
     <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg"
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg"
         alt="php" width="40" height="40" />
     </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg"
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Light.svg"
         alt="mysql" width="40" height="40" />
     </a>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg"
         alt="mongodb" width="40" height="40" />
     </a>
     
